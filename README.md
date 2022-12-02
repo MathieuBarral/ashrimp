@@ -1,7 +1,7 @@
 # ashrimp
-Simple assembler for assembly like custom language using own implementation of malloc
+Simple assembler for assembly like custom language using own implementation of malloc and standard library
 
-**NOTE** : Opcodes are currently printed on standrad output (virtual machine for binaries execution isn't implemented yet)
+**NOTE** : Opcodes are currently printed on standard output (virtual machine for binaries execution isn't implemented yet)
 
 ## Requirements
 - GCC/Clang
